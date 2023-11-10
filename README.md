@@ -50,15 +50,7 @@ The application provides a Canvas for displaying the rendered content of widgets
 2. Open the project in Visual Studio or your preferred IDE.
 3. Build and run the application.
 
-## Contributing
 
-If you would like to contribute to this project, please follow the standard Git workflow:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
-3. Make your changes and commit them: `git commit -m "Your descriptive message"`.
-4. Push your changes to your fork: `git push origin feature-name`.
-5. Create a pull request on GitHub.
 
 ## License
 
